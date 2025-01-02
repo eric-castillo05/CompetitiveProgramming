@@ -1,0 +1,3 @@
+/home/eric/Documents/dev/ICPC-2024/2d date/C/cmake-build-debug/CMakeFiles/C.dir
+/home/eric/Documents/dev/ICPC-2024/2d date/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eric/Documents/dev/ICPC-2024/2d date/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
